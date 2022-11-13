@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>PixelBirde</title>
   
-  
+  <subtitle>一个个人小站</subtitle>
   <link href="https://pixelbirde.github.io/atom.xml" rel="self"/>
   
   <link href="https://pixelbirde.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://pixelbirde.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>szY</name>
     
   </author>
   
